@@ -1,0 +1,25 @@
+#contenedor {
+    position: relative;
+    align-items: center;
+    text-align: center;
+    border-style: dashed;
+    border-color: #dfc1ef;
+    color: #e1c1f7;
+    font-size: xx-large;
+    background-color: #f9f7fa;
+    width: 1000px;
+    height: 500px;
+}
+.botonEstilo1{
+    border-color: #dfc1ef;
+    color: #e1c1f7;
+    background-color: #f9f7fa;
+    width: 100px;
+    font-size: large;
+}
+
+@font-face {
+    font-family: '8bit';
+    src: url('../font/PixelOperator.ttf') format("truetype");
+   
+}
